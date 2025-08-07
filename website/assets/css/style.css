@@ -1,3 +1,20 @@
 body{
     background: #BDBDBD;
 }
+
+.bg-tagline{
+      background-image: url('../img/bg.jpg');
+      background-size: cover;
+      background-position: bottom;
+      height: 70vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+.h1-tagline{
+    font-size: xxx-large;
+}
